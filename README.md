@@ -1,6 +1,7 @@
 # FizzBuzz
 
-The main idea is changing the numbers that are multiple 3 per Fizz, 5 per Buzz, and if match 3 and 5 per FizzBuzz.
+The main idea is changing the numbers inside the file 'numbers.txt' that are multiple 3 per Fizz, 5 per Buzz, and if match 3 and 5 per FizzBuzz.
+And need to be covered by unit tests.
 
 ## Installation
 
