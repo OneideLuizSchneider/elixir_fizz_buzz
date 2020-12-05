@@ -1,6 +1,6 @@
 # FizzBuzz
 
-**TODO: Add description**
+The main idea is changing the numbers that are multiple 3 per Fizz, 5 per Buzz, and if match 3 and 5 per FizzBuzz.
 
 ## Installation
 
